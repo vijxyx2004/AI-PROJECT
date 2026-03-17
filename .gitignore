@@ -1,0 +1,14 @@
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Local DB / app data
+endee-data/
+
+# Endee server source (not needed for app repo)
+endee/
+
+# Temporary files
+temp.pdf
+*.log
